@@ -5,8 +5,7 @@
 ## Task 1
 
 ## Input Description
-### I made changes to the landing page and form input.
-### I integrated the ABI to the frontend.
+### Worked at the frontEnd I made changes to the landing page and form input.Consumed the ABI of the contracts. 
 ### I modified the readme file.
 
 ### status 
@@ -30,7 +29,8 @@ https://github.com/Team-Legacy/Nestcoin/tree/072e31e57e91773a21c91d624b187a8c0ae
 ## Task 2
 
 ## Input Description
-### I wrote smart the contract.
+### I wrote smart the contract 
+### Validations of inputs, setting the networkId to the Kovan test and controlling that indeed, its the network selectedand Unit test.
 
 ## Status 
 my code was merged to the repo.
