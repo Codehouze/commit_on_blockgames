@@ -2,7 +2,7 @@
 
 # List of commit and Description
 
-## Task 1
+## Project 1
 
 ## Input Description
 ### Worked at the frontEnd I made changes to the landing page and form input.Consumed the ABI of the contracts. 
@@ -26,7 +26,7 @@ https://github.com/Team-Legacy/Nestcoin/tree/072e31e57e91773a21c91d624b187a8c0ae
 
 
 
-## Task 2
+## Project 2
 
 ## Input Description
 ### I wrote smart the contract 
@@ -38,7 +38,7 @@ my code was merged to the repo.
 https://github.com/Team-Legacy/task2/commit/4cb15ab5b6d1fb47665e38de1a6e22536e2f2138
 
 
-## Task 3
+## Project 3
 
 ## Input Description 
 ### I designed User interface.
