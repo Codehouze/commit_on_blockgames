@@ -1,4 +1,4 @@
-# List of commit on Blockgames task and Description
+# List of commit and Description
 
 ## Task 1
 
