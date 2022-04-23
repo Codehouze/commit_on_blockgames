@@ -10,7 +10,7 @@
 ### I modified the readme file.
 
 ### status 
-merged
+my code was merged to the repo.
 
 ### Url
 https://github.com/Team-Legacy/task1/tree/cb01bbd23cefb55da88849a8b30da02b7a7e3424
@@ -32,19 +32,19 @@ https://github.com/Team-Legacy/Nestcoin/tree/072e31e57e91773a21c91d624b187a8c0ae
 ## Input Description
 ### I wrote smart the contract.
 
-### status 
-merged
+## Status 
+my code was merged to the repo.
 
 https://github.com/Team-Legacy/task2/commit/4cb15ab5b6d1fb47665e38de1a6e22536e2f2138
 
 
 ## Task 3
 
-##Input Description 
+## Input Description 
 ### I designed User interface.
 
-### status 
-merged
+## Status 
+my code was merged to the repo.
 
 https://github.com/zuri-team-o/E-voting/tree/04e3f09267ae198a7730f3c6a4516fc328f78311
 
