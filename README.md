@@ -1,4 +1,4 @@
-# List of commit on task
+# List of commit on Blockgames task and Description
 
 ## Task 1
 
@@ -27,7 +27,6 @@ https://github.com/Team-Legacy/Nestcoin/tree/072e31e57e91773a21c91d624b187a8c0ae
 
 ## Task 2
 
-
 ## Input Description
 ### I wrote smart the contract.
 
@@ -37,13 +36,13 @@ merged
 https://github.com/Team-Legacy/task2/commit/4cb15ab5b6d1fb47665e38de1a6e22536e2f2138
 
 
-
-
-
 ## Task 3
 
 ##Input Description 
 ### I designed User interface.
+
+### status 
+merged
 
 https://github.com/zuri-team-o/E-voting/tree/04e3f09267ae198a7730f3c6a4516fc328f78311
 
